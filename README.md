@@ -1,1 +1,1 @@
-# Flight Price Predicition
+# Flight Price Prediction
